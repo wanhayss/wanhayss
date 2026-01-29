@@ -1,5 +1,5 @@
-<h1 align="center">Hi👋, I'm Irwan Hendriansyah</h1>
-<!-- <h4 align="center">Computer Science student</h4> -->
+<h1 align="center">Irwan Hendriansyah</h1>
+<h4 align="center">I don't know Shit</h4>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wanhayss&show_icons=true&theme=dark&locale=en&layout=compact" alt="wanhayss" /></p>
 
